@@ -1,0 +1,1 @@
+This is practice for algorithms, dynamic programming, ect because all modern comp sci cares about is leetcode and algorithms and data structures. So, while I am still thinking of the next project I want to work on, I will be practicing dynamic programming.
